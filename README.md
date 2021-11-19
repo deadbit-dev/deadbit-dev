@@ -6,20 +6,22 @@
 ## Future projects:
 - [ ] Portfolio
   - [x] Setup
-  - [x] Prototyping
   - [ ] Refactoring
 - [ ] Prototype game
   - [ ] 2D live-dead-soul
   - [ ] MVP mining-crafting-building-positioning-fighting
 - [ ] Component Engine web->system->native->compile->cache
   - [x] Setup
-  - [ ] Prototyping
+  - [ ] Expertise
   - [ ] Refactoring
 - [ ] Telegram Bot
+  - [x] Setup
+  - [ ] Refactoring
+- [ ] API Post/Blog
   - [x] Setup
   - [ ] Refactoring
 - [ ] Post/Blog
   - [x] Setup
   - [ ] Refactoring
-- [ ] Game Launcher
 - [ ] Dotfiles
+- [ ] Game Launcher
