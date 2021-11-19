@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**deadbit-dev/deadbit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+- 🔭 I’m currently working on Portfolio.
+- 🌱 I’m currently learning JS & react-three-fiber.
+- ⚡ I'm looking to collaborate with all.
+- 🤔 I’m looking for help with all.
+## Future projects:
+- [ ] Portfolio
+  - [x] Setup
+  - [x] Prototyping
+  - [ ] Refactoring
+- [ ] Prototype game
+  - [ ] 2D live-dead-soul
+  - [ ] MVP mining-crafting-building-positioning-fighting
+- [ ] Component Engine web->system->native->compile->cache
+  - [x] Setup
+  - [ ] Prototyping
+  - [ ] Refactoring
