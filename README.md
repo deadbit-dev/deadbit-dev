@@ -15,3 +15,11 @@
   - [x] Setup
   - [ ] Prototyping
   - [ ] Refactoring
+- [ ] Telegram Bot
+  - [x] Setup
+  - [ ] Refactoring
+- [ ] Post/Blog
+  - [x] Setup
+  - [ ] Refactoring
+- [ ] Game Launcher
+- [ ] Dotfiles
