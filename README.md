@@ -17,11 +17,8 @@
 - [ ] Telegram Bot
   - [x] Setup
   - [ ] Refactoring
-- [ ] API Post/Blog
+- [ ] Server-side Post/Blog with API
   - [x] Setup
   - [ ] Refactoring
-- [ ] Post/Blog
-  - [x] Setup
-  - [ ] Refactoring
-- [ ] Dotfiles
 - [ ] Game Launcher
+- [ ] Dotfiles
