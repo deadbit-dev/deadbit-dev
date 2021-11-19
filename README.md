@@ -10,9 +10,9 @@
 - [ ] Prototype game
   - [ ] 2D live-dead-soul
   - [ ] MVP mining-crafting-building-positioning-fighting
-- [ ] Component Engine web->system->native->compile->cache
+- [ ] Component Engine
   - [x] Setup
-  - [ ] Expertise
+  - [ ] Expertise 🤞 web->system->native->compile->cache
   - [ ] Refactoring
 - [ ] Telegram Bot
   - [x] Setup
