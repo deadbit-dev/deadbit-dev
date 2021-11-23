@@ -4,21 +4,19 @@
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 ## Future projects:
-- [ ] Portfolio
+- [ ] GitHub Diagram
   - [x] Setup
   - [ ] Refactoring
 - [ ] Prototype game
   - [ ] 2D live-dead-soul
   - [ ] MVP mining-crafting-building-positioning-fighting
 - [ ] Component Engine
-  - [x] Setup
-  - [ ] Expertise 🤞 web->system->native->compile->cache
+  - [ ] Allocators
+  - [ ] Render
+    - [ ] Vulkan
+  - [ ] Physic
+- [ ] Expertise 🤞 web->system->native->compile->cache
+- [x] Telegram Bot
   - [ ] Refactoring
-- [ ] Telegram Bot
-  - [x] Setup
+- [x] Server-side Post/Blog with API
   - [ ] Refactoring
-- [ ] Server-side Post/Blog with API
-  - [x] Setup
-  - [ ] Refactoring
-- [ ] Game Launcher
-- [ ] Dotfiles
