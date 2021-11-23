@@ -11,11 +11,16 @@
   - [ ] 2D live-dead-soul
   - [ ] MVP mining-crafting-building-positioning-fighting
 - [ ] Component Engine
-  - [ ] Allocators
-  - [ ] Render
-    - [ ] Vulkan
-  - [ ] Physic
-- [ ] Expertise 🤞 web->system->native->compile->cache
+  - [ ] Entity
+  - [ ] Component
+  - [ ] System
+- [ ] Allocators
+- [ ] Render
+  - [ ] OpenGL
+  - [ ] Vulkan
+- [ ] Physic
+  - [ ] Collision
+- [ ] Particles
 - [x] Telegram Bot
   - [ ] Refactoring
 - [x] Server-side Post/Blog with API
