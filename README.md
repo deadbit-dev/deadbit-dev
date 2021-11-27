@@ -1,27 +1,24 @@
 # Hi there 👋
-- 🔭 I’m currently working on Portfolio.
+- 🔭 I’m currently working on GitHub Diagram.
 - 🌱 I’m currently learning JS & react-three-fiber.
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 ## Future projects:
-- [ ] GitHub Diagram
-  - [x] Setup
-  - [ ] Refactoring
+- [ ] [GitHub Diagram](https://github.com/deadbit-dev/deadbit-dev.github.io)
 - [ ] Prototype game
-  - [ ] 2D live-dead-soul
-  - [ ] MVP mining-crafting-building-positioning-fighting
-- [ ] Component Engine
+  - [ ] live-dead-soul
+  - [ ] mining-crafting-building-positioning-fighting
+- [ ] [Component Engine](https://github.com/deadbit-dev/ecs-engine)
   - [ ] Entity
   - [ ] Component
   - [ ] System
 - [ ] Allocators
-- [ ] Render
+- [ ] Resources
+- [ ] Renders
   - [ ] OpenGL
   - [ ] Vulkan
-- [ ] Physic
+- [ ] Physics
   - [ ] Collision
 - [ ] Particles
-- [x] Telegram Bot
-  - [ ] Refactoring
-- [x] Server-side Post/Blog with API
-  - [ ] Refactoring
+- [x] [Telegram Bot](https://github.com/deadbit-dev/homework_bot)
+- [x] [Server-side Post/Blog](https://github.com/deadbit-dev/yatube) [with API](https://github.com/deadbit-dev/api_final_yatube)
