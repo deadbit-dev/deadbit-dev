@@ -6,19 +6,10 @@
 ## Future projects:
 - [ ] [GitHub Diagram](https://github.com/deadbit-dev/deadbit-dev.github.io)
 - [ ] Prototype game
-  - [ ] live-dead-soul
-  - [ ] mining-crafting-building-positioning-fighting
-- [ ] [Component Engine](https://github.com/deadbit-dev/ecs-engine)
-  - [ ] Entity
-  - [ ] Component
-  - [ ] System
+- [ ] Entity Component System - [Component Engine](https://github.com/deadbit-dev/ecs-engine) 
 - [ ] Allocators
-- [ ] Resources
-- [ ] Renders
-  - [ ] OpenGL
-  - [ ] Vulkan
-- [ ] Physics
-  - [ ] Collision
+- [ ] Resource Manager
+- [ ] PBR Render
 - [ ] Particles
 - [x] [Telegram Bot](https://github.com/deadbit-dev/homework_bot)
 - [x] [Server-side Post/Blog](https://github.com/deadbit-dev/yatube) [with API](https://github.com/deadbit-dev/api_final_yatube)
