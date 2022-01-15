@@ -4,7 +4,9 @@
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 ## Future projects:
-- [ ] [GitHub Diagram](https://github.com/deadbit-dev/deadbit-dev.github.io)
+- [ ] [GitHub Metrics](https://github.com/deadbit-dev/deadbit-dev.github.io)
+- [ ] Jams
+  - [x] [Jucie](https://github.com/deadbit-dev/juice-jam)
 - [ ] Prototype game
 - [ ] Entity Component System - [Component Engine](https://github.com/deadbit-dev/ecs-engine) 
 - [ ] Allocators
