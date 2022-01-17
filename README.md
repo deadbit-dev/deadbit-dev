@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with all.
 ## Future projects:
 - [ ] [GitHub Metrics](https://github.com/deadbit-dev/deadbit-dev.github.io) [👀](https://deadbit-dev.github.io/)
-- [x] [Jucie Jam](https://github.com/deadbit-dev/juice-jam)
+- [x] [Jucie Jam](https://github.com/deadbit-dev/juice-jam) [👀](https://itch.io/jam/gdb-juice-jam/rate/1349672)
 - [ ] Prototype game
 - [ ] Entity Component System - [Component Engine](https://github.com/deadbit-dev/ecs-engine) 
 - [ ] Allocators
