@@ -8,5 +8,5 @@
 - [ ] Entity Component System - [Component Engine 🚀](https://github.com/deadbit-dev/ecs-engine)
 - [ ] Allocators
 - [ ] PBR Render
-- [ ] Particles
+- [ ] GPU Particles
 - [ ] Arduino/Rasbary AI Home
