@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working on GitHub Metrics.
+- 🔭 I’m currently working on [Ninja](https://github.com/deadbit-dev/Ninja).
 - 🌱 I’m currently learning Golang.
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
