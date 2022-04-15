@@ -1,6 +1,6 @@
 # Hi there 👋
-- 🔭 I’m currently working on [Ninja](https://github.com/deadbit-dev/Ninja).
-- 🌱 I’m currently learning lua.
+- 🔭 I’m currently working on 👀.
+- 🌱 I’m currently learning Unity DOTS.
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 ## Future projects:
