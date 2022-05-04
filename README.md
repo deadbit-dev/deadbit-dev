@@ -10,6 +10,6 @@
 - [ ] Entity Component System - [Component Engine 🚀](https://github.com/deadbit-dev/ecs-engine)
 - [ ] Arduino/Rasbary AI Home
 
-[![codewars](https://www.codewars.com/users/deadbit-dev/badges/large)](https://www.codewars.com/users/deadbit-dev)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=deadbit-dev&theme=monokai&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![codewars](https://www.codewars.com/users/deadbit-dev/badges/large)](https://www.codewars.com/users/deadbit-dev)
