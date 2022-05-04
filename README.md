@@ -12,4 +12,4 @@
 
 [![codewars](https://www.codewars.com/users/deadbit-dev/badges/large)](https://www.codewars.com/users/deadbit-dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deadbit-dev&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deadbit-dev&theme=monokai&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
