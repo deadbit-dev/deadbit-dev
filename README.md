@@ -1,3 +1,4 @@
+![Codewars](https://www.codewars.com/users/deadbit-dev/badges/large)
 # Hi there 👋
 - 🔭 I’m currently working on 👀.
 - 🌱 I’m currently learning Unity DOTS.
