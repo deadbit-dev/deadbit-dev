@@ -1,6 +1,6 @@
 # Hi there 👋
-- 🔭 I’m currently working on 👀.
-- 🌱 I’m currently learning Unity DOTS.
+- 🔭 I’m currently working on Unity Ecs Sample.
+- 🌱 I’m currently learning Unity DOTS / Entity Component System.
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 
