@@ -4,10 +4,12 @@
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 
-![Codewars](https://www.codewars.com/users/deadbit-dev/badges/large)
-
 ## Future projects:
 - [ ] Unity Ecs Sample
 - [ ] Unity Convert To Entity
 - [ ] Entity Component System - [Component Engine 🚀](https://github.com/deadbit-dev/ecs-engine)
 - [ ] Arduino/Rasbary AI Home
+
+[![codewars](https://www.codewars.com/users/deadbit-dev/badges/large)](https://www.codewars.com/users/deadbit-dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=deadbit-dev&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
