@@ -1,11 +1,11 @@
 # 👋 Hi there
-- 🔭 I’m currently working on Ecs Sample on Unity.
+- 🔭 I’m currently working on Ecs.
 - 🌱 I’m currently learning Entity Component System.
 - ⚡ I'm looking to collaborate with all.
 - 🤔 I’m looking for help with all.
 
 ## 🧪 Future Projects
-- 📦 Ecs Sample
+- 📦 Ecs Sample on Unity
 - 🚀 [Component Engine](https://github.com/deadbit-dev/ecs-engine)
 - 🗺 Computer Science Map 
 - 🤖 Arduino/Rasbary AI Home 
