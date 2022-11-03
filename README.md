@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with all.
 
 ## 🧪 Future Projects
-- 📦 [JoyTeam Core](https://github.com/deadbit-dev/JoyTeam)
+- 📦 [Core]([https://github.com/deadbit-dev/JoyTeam](https://github.com/deadbit-dev/com.joyteam.core))
 - 🚀 [Component Engine](https://github.com/deadbit-dev/ecs-engine)
 - 🗺 Computer Science Map
 - 🤖 Arduino/Rasbary AI Home
